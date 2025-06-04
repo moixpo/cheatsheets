@@ -31,3 +31,8 @@ Remembering all the Numpy operations is hard. Remembering just a handful of them
 
 - https://www.w3schools.com/html/
 
+## various
+
+https://emojipedia.org/
+
+
