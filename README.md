@@ -31,6 +31,37 @@ Remembering all the Numpy operations is hard. Remembering just a handful of them
 
 - https://www.w3schools.com/html/
 
+
+## Markdown
+
+*Italic*
+**Bold**
+***Italic and bold***
+
+list with - and space or  + or *
+- one
+- two
++ three
+*four
+
+
+[Name of the link](link)
+image: ![alternative txt](path or link)
+
+
+### Create Tables in Markdown
+
+To create tables, use: 
+* **hyphens** <code>(----)</code> for column headers 
+* **pipes** <code>|</code> to separate each column
+* **Text on a new line** to separate each row
+
+| Country Name | Capital |
+| -------------| ------ |
+| CH | Bern |
+| Australia | Canberra |
+| India | New Delhi |
+
 ## various
 
 https://emojipedia.org/
