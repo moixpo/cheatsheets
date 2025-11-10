@@ -26,6 +26,8 @@ Remembering all the Numpy operations is hard. Remembering just a handful of them
 19. np.split() # Split an array into multiple sub-arrays
 20. np.unique() # Find the unique elements of an array
 
+## gitHub
+https://try.github.io/
 
 ## ressources html & CSS
 
@@ -63,11 +65,12 @@ To create tables, use:
 | India | New Delhi |
 
 ## various
-
 https://emojipedia.org/
 
 
 ## Environment
 to see jupyter notebook online: https://nbviewer.org/
 
+## step by step example
+for loading and cleaning data: https://nbviewer.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
 
