@@ -67,3 +67,7 @@ To create tables, use:
 https://emojipedia.org/
 
 
+## Environment
+to see jupyter notebook online: https://nbviewer.org/
+
+
